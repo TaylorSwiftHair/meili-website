@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "source": "dima806/hair_type_image_detection",
+  "revision": "c918d5859f6830e667edd0aa4260703ea11a8d10",
+  "license": "Apache-2.0",
+  "scope": "broad texture only; no subtype or damage predictions",
+  "parts": [
+    "baseline-00.bin",
+    "baseline-01.bin",
+    "baseline-02.bin",
+    "baseline-03.bin",
+    "baseline-04.bin",
+    "baseline-05.bin",
+    "baseline-06.bin",
+    "baseline-07.bin",
+    "baseline-08.bin",
+    "baseline-09.bin",
+    "baseline-10.bin"
+  ],
+  "bytes": 88633400,
+  "labels": [
+    "curly",
+    "dreadlocks",
+    "kinky",
+    "straight",
+    "wavy"
+  ],
+  "processor": {
+    "do_normalize": true,
+    "do_rescale": true,
+    "do_resize": true,
+    "image_mean": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "image_processor_type": "ViTImageProcessor",
+    "image_std": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "resample": 2,
+    "rescale_factor": 0.00392156862745098,
+    "size": {
+      "height": 224,
+      "width": 224
+    }
+  },
+  "quantization": "dynamic int8 MatMul/Gemm",
+  "validated_for_phone_photos": false,
+  "task": "broad",
+  "sha256": "0a023ede5fad6f19048beb135ab06b7e9cf2182031260b8dd98f9a141d5cfbaf"
+}
