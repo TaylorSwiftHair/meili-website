@@ -28,3 +28,9 @@ This folder is the production output of the verified deployment export, which pa
 ## Troubleshooting
 
 If the page is missing, check that index.html is at the repository root and Pages uses main / (root). Wait for the Pages deployment to finish. If artwork/model files fail, verify assets/, vendor/ and all 11 visual-model/clip-*.bin files were pushed. Open the HTTPS website, not index.html by double-clicking. Asset and model credits remain in THIRD_PARTY.md and included license files.
+
+## Fixing a blank meili-website deployment
+
+The published TaylorSwiftHair/meili-website repository was missing the entire assets/, vendor/ and visual-model/ folders when inspected. Uploading only the loose HTML/JS/CSS files leaves the opening artwork blank and the model unavailable.
+
+In GitHub Desktop, clone TaylorSwiftHair/meili-website, choose Repository > Show in Explorer, and copy ALL contents of this extracted ZIP into that cloned folder, including the THREE folders assets, vendor and visual-model. Replace index.html when asked; its browser title is now Meili. Commit all changes to main and Push origin. After Pages deploys, hard-refresh the website with Ctrl+Shift+R. You do not need a new repository or new Pages settings.

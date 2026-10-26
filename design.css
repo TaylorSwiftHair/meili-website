@@ -79,3 +79,9 @@ html:has(.makeup-tutorial){scrollbar-gutter:stable}
 .hair-tutorial .book-illustration{aspect-ratio:1;object-fit:contain;object-position:center;background:transparent;border-radius:0;max-height:460px;width:min(100%,384px);justify-self:center}
 .hair-tutorial .book-instructions{overflow-wrap:anywhere}
 html:has(.hair-tutorial){scrollbar-gutter:stable}
+
+/* Modest catalog-only enlargement; retain full transparent silhouettes. */
+.hair-art-catalog .portrait-card img{width:110%;max-width:none;margin-inline:-5%;height:clamp(286px,35.2vw,473px)}
+.hair-art-catalog .neighbor-portrait img{height:clamp(242px,29.7vw,391px)}
+@media(min-width:1700px){.hair-art-catalog .portrait-card img{height:517px}.hair-art-catalog .neighbor-portrait img{height:413px}}
+@media(max-width:600px){.hair-art-catalog .portrait-card img{height:275px}.hair-art-catalog .neighbor-portrait img{height:176px}}

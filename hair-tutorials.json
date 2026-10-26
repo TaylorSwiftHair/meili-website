@@ -82,16 +82,28 @@
         "alt": "Wavy hair — Remove Excess Water: supplied hand-drawn illustration"
       },
       {
-        "title": "Dry",
-        "description": "Air-dry or diffuse on low heat.",
+        "title": "Microplop",
+        "description": "Microplop your hair with a microfiber towel or 100% cotton T-shirt. Wrap the towel or T-shirt around your head. Leave it on to air dry for 15–30 minutes.",
         "image": "./assets/hair-steps/2/06.png",
-        "alt": "Wavy hair — Dry: supplied hand-drawn illustration"
+        "alt": "Wavy hair — Microplop: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Drying",
+        "description": "Gently diffuse your hair up on low heat or on cold air with a diffuser.",
+        "image": "./assets/hair-steps/2/07.png",
+        "alt": "Wavy hair — Drying: supplied hand-drawn illustration"
       },
       {
         "title": "Scrunch Out the Cast",
         "description": "Once completely dry, gently scrunch out any stiffness from the gel.",
-        "image": "./assets/hair-steps/2/07.png",
+        "image": "./assets/hair-steps/2/08.png",
         "alt": "Wavy hair — Scrunch Out the Cast: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Finished Look",
+        "description": "Finished Look!",
+        "image": "./assets/hair-steps/2/09.png",
+        "alt": "Wavy hair — Finished Look: supplied hand-drawn illustration"
       }
     ]
   },
