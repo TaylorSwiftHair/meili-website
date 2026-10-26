@@ -1,0 +1,13 @@
+{
+  "products": "Product photographs identify the products sold by the linked brands. Original image URLs are retained in catalog.json.",
+  "look_previews": {
+    "everyday": "https://www.youtube.com/watch?v=Nsg6ZDd4NfQ",
+    "rose": "https://www.youtube.com/watch?v=ubhd70KBaZw",
+    "glam": "https://www.youtube.com/watch?v=7mG6SDhiR1A",
+    "smoky": "https://www.youtube.com/watch?v=fLnKtPVpofM",
+    "hooded": "https://www.youtube.com/watch?v=QsDkVabUbfk",
+    "monolid": "https://www.youtube.com/watch?v=ZfFq3KcksPg"
+  },
+  "thumbnail_source": "Official YouTube thumbnail endpoint img.youtube.com. Written Meili guides are independent, original content.",
+  "reference_art": "Hero/routine/satin/lace remain replaceable crops from supplied design references; not training data."
+}

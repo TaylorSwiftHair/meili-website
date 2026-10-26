@@ -1,0 +1,251 @@
+{
+  "opening": {
+    "hero": "./assets/opening/girls-base.png",
+    "logo": "./assets/branding/meili-logo.png",
+    "mobile": "./assets/opening/mobile.png",
+    "desktop": "./assets/opening/desktop.png"
+  },
+  "catalogs": {
+    "hair": {
+      "1": {
+        "image": "./assets/hair-art/type-1-straight-hair.png",
+        "description": "A lighter wash-day routine with gentle detangling and a smooth finish.",
+        "accent": "#eaa3ca",
+        "labelColor": "#f7d0e2",
+        "alt": "Complete straight hair drawing supplied for Type 1",
+        "name": "Type 1 \u2014 Straight Hair"
+      },
+      "2": {
+        "image": "./assets/hair-art/type-2-wavy-hair.png",
+        "description": "A gentle routine for relaxed definition and lighter styling layers.",
+        "accent": "#d49ac8",
+        "labelColor": "#f2cde6",
+        "alt": "Complete wavy hair drawing supplied for Type 2",
+        "name": "Type 2 \u2014 Wavy Hair"
+      },
+      "3": {
+        "image": "./assets/hair-art/type-3-curly-hair.png",
+        "description": "Condition, detangle in sections, then style with the slip you prefer.",
+        "accent": "#f29eae",
+        "labelColor": "#ffd0d9",
+        "alt": "Complete curly hair drawing supplied for Type 3",
+        "name": "Type 3 \u2014 Curly Hair"
+      },
+      "4": {
+        "image": "./assets/hair-art/type-4-coily-hair.png",
+        "description": "Take your time with conditioning, sectioning and gentle handling.",
+        "accent": "#bf85b2",
+        "labelColor": "#ead0e5",
+        "alt": "Complete coily hair drawing supplied for Type 4",
+        "name": "Type 4 \u2014 Coily Hair"
+      }
+    },
+    "makeup": {
+      "everyday": {
+        "image": "./assets/makeup-art/clean-girl.png",
+        "accent": "#ed8cac",
+        "labelColor": "#fac9d9",
+        "name": "Clean Girl Makeup",
+        "tutorialId": "clean-girl",
+        "description": "Fresh skin, brushed brows, subtle glow and glossy lips."
+      },
+      "rose": {
+        "image": "./assets/makeup-art/bambi.png",
+        "accent": "#d982aa",
+        "labelColor": "#f6bfd3",
+        "name": "Bambi Makeup",
+        "tutorialId": "bambi",
+        "description": "Soft blush, brown eyes, light freckles and glossy lips."
+      },
+      "glam": {
+        "image": "./assets/makeup-art/soft-glam.png",
+        "accent": "#cb92c2",
+        "labelColor": "#efd1e9",
+        "name": "Soft Glam Makeup",
+        "tutorialId": "soft-glam",
+        "description": "Blended complexion, soft contour and a touch of shimmer."
+      },
+      "smoky": {
+        "image": "./assets/makeup-art/goth.png",
+        "accent": "#b870a3",
+        "labelColor": "#e9bedf",
+        "name": "Goth Makeup",
+        "tutorialId": "goth",
+        "description": "White base, cool contour, dark eyes and black lips."
+      },
+      "hooded": {
+        "image": "./assets/makeup-art/full-matte.png",
+        "accent": "#ef9eae",
+        "labelColor": "#ffd5dd",
+        "name": "Full Matte Makeup",
+        "tutorialId": "full-matte",
+        "description": "An even base, sculpted contours and softly defined eyes."
+      },
+      "monolid": {
+        "image": "./assets/makeup-art/douyin.png",
+        "accent": "#c9a1d3",
+        "labelColor": "#efdaf5",
+        "name": "Douyin Makeup",
+        "tutorialId": "douyin",
+        "description": "Soft blush, bright highlights and defined lashes."
+      }
+    }
+  },
+  "tutorials": {
+    "hair": {},
+    "makeup": {
+      "everyday": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Your everyday glow illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Your everyday glow illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Your everyday glow illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Your everyday glow illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Your everyday glow illustration, step 5"
+          }
+        ]
+      },
+      "rose": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Rosewater romance illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Rosewater romance illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Rosewater romance illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Rosewater romance illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Rosewater romance illustration, step 5"
+          }
+        ]
+      },
+      "glam": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 5"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Soft-glam hour illustration, step 6"
+          }
+        ]
+      },
+      "smoky": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 5"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Velvet after dark illustration, step 6"
+          }
+        ]
+      },
+      "hooded": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Liner that shows illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Liner that shows illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Liner that shows illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Liner that shows illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi Liner that shows illustration, step 5"
+          }
+        ]
+      },
+      "monolid": {
+        "steps": [
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi A soft gradient illustration, step 1"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi A soft gradient illustration, step 2"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi A soft gradient illustration, step 3"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi A soft gradient illustration, step 4"
+          },
+          {
+            "image": "./assets/y2k/tutorial-bubble.webp",
+            "alt": "Temporary MeiLi A soft gradient illustration, step 5"
+          }
+        ]
+      }
+    }
+  }
+}

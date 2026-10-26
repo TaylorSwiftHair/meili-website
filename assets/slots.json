@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "src": "./assets/hero-placeholder.webp",
+    "alt": "Temporary reference collage showing a variety of hairstyles"
+  },
+  "routine": {
+    "src": "./assets/routine-placeholder.webp",
+    "alt": "Temporary beauty routine reference image"
+  },
+  "look-everyday": {
+    "src": "./assets/looks/everyday.webp",
+    "alt": "Linked creator tutorial preview for the everyday makeup guide"
+  },
+  "look-rose": {
+    "src": "./assets/looks/rose.webp",
+    "alt": "Linked creator tutorial preview for the rose makeup guide"
+  },
+  "look-glam": {
+    "src": "./assets/looks/glam.webp",
+    "alt": "Linked creator tutorial preview for the glam makeup guide"
+  },
+  "look-smoky": {
+    "src": "./assets/looks/smoky.webp",
+    "alt": "Linked creator tutorial preview for the smoky makeup guide"
+  },
+  "look-hooded": {
+    "src": "./assets/looks/hooded.webp",
+    "alt": "Linked creator tutorial preview for the hooded makeup guide"
+  },
+  "look-monolid": {
+    "src": "./assets/looks/monolid.webp",
+    "alt": "Linked creator tutorial preview for the monolid makeup guide"
+  }
+}
