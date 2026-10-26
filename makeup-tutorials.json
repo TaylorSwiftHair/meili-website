@@ -1,0 +1,434 @@
+{
+  "bambi": {
+    "name": "Bambi Makeup",
+    "legacyId": "rose",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Using a good amount of moisturizer, apply it to the placements indicated on the drawing and rub it into your skin.\n\nLet it sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/bambi/01.png",
+        "alt": "Bambi: Moisturizer placement drawing"
+      },
+      {
+        "title": "Concealer",
+        "description": "Wipe off excess product from the applicator.\n\nApply concealer to the areas indicated in the drawing.\n\nLet it sit for approximately 2–3 minutes, then gently blend with a concealer brush or beauty blender using circular patting motions.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/bambi/02.png",
+        "alt": "Bambi: Concealer placement drawing"
+      },
+      {
+        "title": "Blush",
+        "description": "Using liquid blush, dab a small amount on the area highlighted in the drawing.\n\nA little goes a long way.\n\nBlend using either a beauty blender or dense brush in circular patting motions.",
+        "image": "./assets/makeup-steps/bambi/03.png",
+        "alt": "Bambi: Blush placement drawing"
+      },
+      {
+        "title": "Brown Eyeshadow",
+        "description": "Using an eyeshadow brush, pick up brown eyeshadow and tap off excess product on the back of your hand.\n\nGently apply to the outer edge of the eyes and blend across the eyelid using small circular motions.",
+        "image": "./assets/makeup-steps/bambi/04.png",
+        "alt": "Bambi: Brown Eyeshadow placement drawing"
+      },
+      {
+        "title": "Mascara",
+        "description": "Curl the lashes.\n\nApply mascara to the eyelashes in layers, allowing each layer to dry slightly before adding another.",
+        "image": "./assets/makeup-steps/bambi/05.png",
+        "alt": "Bambi: Mascara placement drawing"
+      },
+      {
+        "title": "Contour",
+        "description": "Using a cream-based contour stick, draw a small amount in the areas highlighted in the drawing.\n\nUse a contour brush to gently blend until even.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/bambi/06.png",
+        "alt": "Bambi: Contour placement drawing"
+      },
+      {
+        "title": "White Tightlining",
+        "description": "Using white eyeliner, gently expose the lower waterline by pulling down the lower eyelid.\n\nApply the eyeliner back and forth until the pigment is visible.",
+        "image": "./assets/makeup-steps/bambi/07.png",
+        "alt": "Bambi: White Tightlining placement drawing"
+      },
+      {
+        "title": "Freckles",
+        "description": "Following the placement shown in the illustration, apply light brown eyeshadow or a freckle product.\n\nGently tap to distribute the freckles.",
+        "image": "./assets/makeup-steps/bambi/08.png",
+        "alt": "Bambi: Freckles placement drawing"
+      },
+      {
+        "title": "Lipgloss",
+        "description": "Make sure there is no excess foundation or concealer on the lips.\n\nApply lip balm before applying lip gloss.",
+        "image": "./assets/makeup-steps/bambi/09.png",
+        "alt": "Bambi: Lipgloss placement drawing"
+      },
+      {
+        "title": "Lipliner",
+        "description": "Using a lip liner slightly darker than the user's natural lip shade, outline the outer edge of the lips.\n\nRub the lips together to soften/blend the liner.",
+        "image": "./assets/makeup-steps/bambi/10.png",
+        "alt": "Bambi: Lipliner placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold the setting spray approximately a forearm's length away from the face.\n\nClose the eyes and lightly mist the face.\n\nAllow it to dry without touching the face.",
+        "image": "./assets/makeup-steps/bambi/11.png",
+        "alt": "Bambi: Setting Spray placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/bambi/final.png"
+  },
+  "clean-girl": {
+    "name": "Clean Girl Makeup",
+    "legacyId": "everyday",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Apply moisturizer to the placements shown in the drawing and rub it into the skin.\n\nLet it sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/clean-girl/01.png",
+        "alt": "Clean Girl: Moisturizer placement drawing"
+      },
+      {
+        "title": "Concealer",
+        "description": "Wipe excess concealer from the applicator.\n\nApply it to the areas indicated in the drawing.\n\nAllow it to sit for approximately 2–3 minutes before gently blending using a concealer brush or beauty blender with circular patting motions.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/clean-girl/02.png",
+        "alt": "Clean Girl: Concealer placement drawing"
+      },
+      {
+        "title": "Eyebrow Tint",
+        "description": "Using a tube-based eyebrow applicator, wipe off excess product before applying.\n\nBrush the product upward through the eyebrow following its natural shape and arch.\n\nAfterwards, gently brush the eyebrows horizontally for a more natural look.",
+        "image": "./assets/makeup-steps/clean-girl/03.png",
+        "alt": "Clean Girl: Eyebrow Tint placement drawing"
+      },
+      {
+        "title": "Blush",
+        "description": "Apply a small amount of liquid blush to the areas indicated in the drawing.\n\nBlend using a beauty blender or dense brush in a circular patting motion.",
+        "image": "./assets/makeup-steps/clean-girl/04.png",
+        "alt": "Clean Girl: Blush placement drawing"
+      },
+      {
+        "title": "Contour",
+        "description": "Apply cream contour to the areas highlighted in the drawing.\n\nGently blend with a contour brush until even.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/clean-girl/05.png",
+        "alt": "Clean Girl: Contour placement drawing"
+      },
+      {
+        "title": "Highlighter",
+        "description": "Using a fluffy brush, pick up highlighter and tap off excess product.\n\nApply lightly to the locations indicated in the drawing using circular motions.",
+        "image": "./assets/makeup-steps/clean-girl/06.png",
+        "alt": "Clean Girl: Highlighter placement drawing"
+      },
+      {
+        "title": "Mascara",
+        "description": "Curl the lashes.\n\nApply mascara in layers, allowing each layer to dry slightly.",
+        "image": "./assets/makeup-steps/clean-girl/07.png",
+        "alt": "Clean Girl: Mascara placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold the setting spray approximately a forearm's length away.\n\nClose the eyes and apply a light mist.\n\nAllow it to dry without touching the face.",
+        "image": "./assets/makeup-steps/clean-girl/08.png",
+        "alt": "Clean Girl: Setting Spray placement drawing"
+      },
+      {
+        "title": "Lipgloss",
+        "description": "Remove any excess foundation or concealer from the lips.\n\nApply lip balm and then lip gloss.",
+        "image": "./assets/makeup-steps/clean-girl/09.png",
+        "alt": "Clean Girl: Lipgloss placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/clean-girl/final.png"
+  },
+  "douyin": {
+    "name": "Douyin Makeup",
+    "legacyId": "monolid",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Apply moisturizer to the placements indicated in the drawing.\n\nRub it thoroughly into the skin and let it sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/douyin/01.png",
+        "alt": "Douyin: Moisturizer placement drawing"
+      },
+      {
+        "title": "Primer",
+        "description": "Apply approximately a pea-sized amount of primer to each area highlighted in the drawing.\n\nRub it thoroughly into the skin.",
+        "image": "./assets/makeup-steps/douyin/02.png",
+        "alt": "Douyin: Primer placement drawing"
+      },
+      {
+        "title": "Foundation",
+        "description": "Pump a small amount of foundation onto the back of the hand.\n\nApply thin layers evenly to the areas shown in the drawing.\n\nBlend using a foundation brush or beauty blender with circular patting motions.",
+        "image": "./assets/makeup-steps/douyin/03.png",
+        "alt": "Douyin: Foundation placement drawing"
+      },
+      {
+        "title": "Blush",
+        "description": "Apply a small amount of liquid blush to the highlighted areas.\n\nBlend gently using a beauty blender or dense brush.",
+        "image": "./assets/makeup-steps/douyin/04.png",
+        "alt": "Douyin: Blush placement drawing"
+      },
+      {
+        "title": "Loose Powder",
+        "description": "Using a powder puff, pick up white loose or pressed powder and tap off the excess.\n\nApply using tapping motions to the areas indicated in the drawing.",
+        "image": "./assets/makeup-steps/douyin/05.png",
+        "alt": "Douyin: Loose Powder placement drawing"
+      },
+      {
+        "title": "Lipgloss",
+        "description": "Make sure there is no excess foundation or concealer on the lips.\n\nApply lip balm followed by lip gloss.",
+        "image": "./assets/makeup-steps/douyin/06.png",
+        "alt": "Douyin: Lipgloss placement drawing"
+      },
+      {
+        "title": "Contour",
+        "description": "Apply cream contour to the indicated areas.\n\nBlend gently with a contour brush until even.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/douyin/07.png",
+        "alt": "Douyin: Contour placement drawing"
+      },
+      {
+        "title": "Highlighter",
+        "description": "Using a fluffy brush, pick up highlighter and remove excess product.\n\nApply lightly to the indicated locations using circular motions.",
+        "image": "./assets/makeup-steps/douyin/08.png",
+        "alt": "Douyin: Highlighter placement drawing"
+      },
+      {
+        "title": "Mascara",
+        "description": "Curl the lashes and apply mascara in layers.\n\nAllow layers to dry slightly between applications.",
+        "image": "./assets/makeup-steps/douyin/09.png",
+        "alt": "Douyin: Mascara placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold setting spray approximately a forearm's length away from the face.\n\nClose the eyes, lightly mist the face, and allow it to dry untouched.",
+        "image": "./assets/makeup-steps/douyin/10.png",
+        "alt": "Douyin: Setting Spray placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/douyin/final.png"
+  },
+  "full-matte": {
+    "name": "Full Matte Makeup",
+    "legacyId": "hooded",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Apply moisturizer according to the drawing.\n\nRub it into the skin and let it sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/full-matte/01.png",
+        "alt": "Full Matte: Moisturizer placement drawing"
+      },
+      {
+        "title": "Primer",
+        "description": "Apply a pea-sized amount of primer to each highlighted area.\n\nRub it into the skin thoroughly.",
+        "image": "./assets/makeup-steps/full-matte/02.png",
+        "alt": "Full Matte: Primer placement drawing"
+      },
+      {
+        "title": "Foundation",
+        "description": "Apply thin layers of foundation to the placements indicated in the drawing.\n\nBlend using a foundation brush or beauty blender with circular patting motions.",
+        "image": "./assets/makeup-steps/full-matte/03.png",
+        "alt": "Full Matte: Foundation placement drawing"
+      },
+      {
+        "title": "Lighter Concealer",
+        "description": "Apply lighter concealer to the areas indicated.\n\nAllow it to sit for approximately 2–3 minutes before gently blending using circular patting motions.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/full-matte/04.png",
+        "alt": "Full Matte: Lighter Concealer placement drawing"
+      },
+      {
+        "title": "Contour",
+        "description": "Apply cream contour to the highlighted areas.\n\nBlend gently using a contour brush.",
+        "image": "./assets/makeup-steps/full-matte/05.png",
+        "alt": "Full Matte: Contour placement drawing"
+      },
+      {
+        "title": "Blush",
+        "description": "Apply a small amount of liquid blush according to the drawing.\n\nBlend with a beauty blender or dense brush.",
+        "image": "./assets/makeup-steps/full-matte/06.png",
+        "alt": "Full Matte: Blush placement drawing"
+      },
+      {
+        "title": "Eyeshadow",
+        "description": "Use beige, light brown, and dark brown eyeshadow.\n\nFollow the placement shown in the supplied Full Matte eyeshadow drawing.",
+        "image": "./assets/makeup-steps/full-matte/07.png",
+        "alt": "Full Matte: Eyeshadow placement drawing"
+      },
+      {
+        "title": "Mascara",
+        "description": "Curl the lashes and apply mascara in layers.",
+        "image": "./assets/makeup-steps/full-matte/08.png",
+        "alt": "Full Matte: Mascara placement drawing"
+      },
+      {
+        "title": "Eyeliner",
+        "description": "Using gel or liquid eyeliner, apply the liner according to the placement shown in the drawing.\n\nAllow it to set without touching it for approximately 1–2 minutes.",
+        "image": "./assets/makeup-steps/full-matte/09.png",
+        "alt": "Full Matte: Eyeliner placement drawing"
+      },
+      {
+        "title": "Lipgloss",
+        "description": "Remove excess foundation/concealer from the lips.\n\nApply lip balm followed by lip gloss.",
+        "image": "./assets/makeup-steps/full-matte/10.png",
+        "alt": "Full Matte: Lipgloss placement drawing"
+      },
+      {
+        "title": "Eyebrows",
+        "description": "Using a sharpened eyebrow pencil, apply small upward strokes following the user's natural eyebrow shape and arch.\n\nFill sparse areas lightly.",
+        "image": "./assets/makeup-steps/full-matte/11.png",
+        "alt": "Full Matte: Eyebrows placement drawing"
+      },
+      {
+        "title": "Highlighter",
+        "description": "Using a fluffy brush, apply a small amount of highlighter to the placements shown in the drawing.\n\nUse circular motions with a light hand.",
+        "image": "./assets/makeup-steps/full-matte/12.png",
+        "alt": "Full Matte: Highlighter placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold the setting spray approximately a forearm's length away.\n\nClose the eyes, mist lightly, and allow it to dry without touching the face.",
+        "image": "./assets/makeup-steps/full-matte/13.png",
+        "alt": "Full Matte: Setting Spray placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/full-matte/final.png"
+  },
+  "goth": {
+    "name": "Goth Makeup",
+    "legacyId": "smoky",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Apply moisturizer according to the drawing.\n\nRub it into the skin and allow it to sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/goth/01.png",
+        "alt": "Goth: Moisturizer placement drawing"
+      },
+      {
+        "title": "White Foundation",
+        "description": "Apply a small amount of white foundation in thin layers over the placements indicated in the drawing.\n\nBlend thoroughly using a brush or beauty blender with circular patting motions.",
+        "image": "./assets/makeup-steps/goth/02.png",
+        "alt": "Goth: White Foundation placement drawing"
+      },
+      {
+        "title": "Grey / Cool-Toned Contour",
+        "description": "Apply grey or cool-toned cream contour to the highlighted areas.\n\nBlend gently using a contour brush.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/goth/03.png",
+        "alt": "Goth: Grey / Cool-Toned Contour placement drawing"
+      },
+      {
+        "title": "Black or Blue Eyeshadow",
+        "description": "Using an eyeshadow brush, pick up black or blue eyeshadow.\n\nTap excess product onto the back of the hand.\n\nApply to the outer edge of the eyes and blend across the eyelid using small circular motions.",
+        "image": "./assets/makeup-steps/goth/04.png",
+        "alt": "Goth: Black or Blue Eyeshadow placement drawing"
+      },
+      {
+        "title": "Eyeliner",
+        "description": "Using gel or liquid eyeliner, apply eyeliner according to the placement indicated in the drawing.\n\nAllow it to set for approximately 1–2 minutes.",
+        "image": "./assets/makeup-steps/goth/05.png",
+        "alt": "Goth: Eyeliner placement drawing"
+      },
+      {
+        "title": "Mascara",
+        "description": "Curl the lashes and apply mascara in layers.",
+        "image": "./assets/makeup-steps/goth/06.png",
+        "alt": "Goth: Mascara placement drawing"
+      },
+      {
+        "title": "Eyebrows",
+        "description": "Using a black sharpened eyebrow pencil, apply small upward strokes following the natural brow shape.\n\nFill sparse areas lightly.",
+        "image": "./assets/makeup-steps/goth/07.png",
+        "alt": "Goth: Eyebrows placement drawing"
+      },
+      {
+        "title": "Black Lipstick",
+        "description": "Remove excess foundation or concealer from the lips.\n\nApply lip balm before applying black lipstick.",
+        "image": "./assets/makeup-steps/goth/08.png",
+        "alt": "Goth: Black Lipstick placement drawing"
+      },
+      {
+        "title": "Setting Powder",
+        "description": "Using a powder puff, pick up white loose or pressed powder.\n\nTap off excess and apply to the areas indicated in the drawing using tapping motions.",
+        "image": "./assets/makeup-steps/goth/09.png",
+        "alt": "Goth: Setting Powder placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold the setting spray approximately a forearm's length away from the face.\n\nClose the eyes and apply a light mist.\n\nAllow it to dry without touching the face.",
+        "image": "./assets/makeup-steps/goth/10.png",
+        "alt": "Goth: Setting Spray placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/goth/final.png"
+  },
+  "soft-glam": {
+    "name": "Soft Glam Makeup",
+    "legacyId": "glam",
+    "steps": [
+      {
+        "title": "Moisturizer",
+        "description": "Apply moisturizer according to the drawing.\n\nRub it into the skin and allow it to sit for approximately 2–3 minutes.",
+        "image": "./assets/makeup-steps/soft-glam/01.png",
+        "alt": "Soft Glam: Moisturizer placement drawing"
+      },
+      {
+        "title": "Primer",
+        "description": "Apply approximately a pea-sized amount of primer to each highlighted area.\n\nRub it thoroughly into the skin.",
+        "image": "./assets/makeup-steps/soft-glam/02.png",
+        "alt": "Soft Glam: Primer placement drawing"
+      },
+      {
+        "title": "Foundation",
+        "description": "Apply foundation in thin layers according to the drawing.\n\nBlend using a foundation brush or beauty blender with circular patting motions.",
+        "image": "./assets/makeup-steps/soft-glam/03.png",
+        "alt": "Soft Glam: Foundation placement drawing"
+      },
+      {
+        "title": "Concealer",
+        "description": "Apply concealer to the areas indicated.\n\nLet it sit approximately 2–3 minutes before blending gently using a concealer brush or beauty blender.\n\nDo not swipe.",
+        "image": "./assets/makeup-steps/soft-glam/04.png",
+        "alt": "Soft Glam: Concealer placement drawing"
+      },
+      {
+        "title": "Contour",
+        "description": "Apply cream contour according to the drawing.\n\nBlend gently using a contour brush.",
+        "image": "./assets/makeup-steps/soft-glam/05.png",
+        "alt": "Soft Glam: Contour placement drawing"
+      },
+      {
+        "title": "Blush",
+        "description": "Apply a small amount of liquid blush according to the placement shown.\n\nBlend using a beauty blender or dense brush.",
+        "image": "./assets/makeup-steps/soft-glam/06.png",
+        "alt": "Soft Glam: Blush placement drawing"
+      },
+      {
+        "title": "Highlighter",
+        "description": "Using a fluffy brush, apply highlighter lightly to the locations indicated.",
+        "image": "./assets/makeup-steps/soft-glam/07.png",
+        "alt": "Soft Glam: Highlighter placement drawing"
+      },
+      {
+        "title": "Setting Powder",
+        "description": "Using a powder puff, pick up loose or pressed powder.\n\nTap excess off and apply using tapping motions to the indicated areas.",
+        "image": "./assets/makeup-steps/soft-glam/08.png",
+        "alt": "Soft Glam: Setting Powder placement drawing"
+      },
+      {
+        "title": "Lip Liner",
+        "description": "Using a shade slightly darker than the natural lip color, outline the outer edge of the lips.\n\nRub the lips together gently to soften the liner.",
+        "image": "./assets/makeup-steps/soft-glam/09.png",
+        "alt": "Soft Glam: Lip Liner placement drawing"
+      },
+      {
+        "title": "Lipstick",
+        "description": "Remove excess foundation or concealer from the lips.\n\nApply lip balm and then lipstick.",
+        "image": "./assets/makeup-steps/soft-glam/10.png",
+        "alt": "Soft Glam: Lipstick placement drawing"
+      },
+      {
+        "title": "Eyeshadow",
+        "description": "Using an eyeshadow brush, pick up glitter or beige eyeshadow and tap off excess.\n\nApply to the outer eye and blend across the eyelid using small circular motions.",
+        "image": "./assets/makeup-steps/soft-glam/11.png",
+        "alt": "Soft Glam: Eyeshadow placement drawing"
+      },
+      {
+        "title": "Setting Spray",
+        "description": "Hold setting spray approximately a forearm's length away.\n\nClose the eyes and apply a light mist.\n\nAllow it to dry without touching the face.",
+        "image": "./assets/makeup-steps/soft-glam/12.png",
+        "alt": "Soft Glam: Setting Spray placement drawing"
+      }
+    ],
+    "finalImage": "./assets/makeup-steps/soft-glam/final.png"
+  }
+}

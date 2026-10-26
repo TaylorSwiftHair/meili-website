@@ -1,0 +1,218 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Type 1 — Straight Hair",
+    "steps": [
+      {
+        "title": "Shampoo",
+        "description": "Wash depending on how oily your scalp gets.",
+        "image": "./assets/hair-steps/1/01.png",
+        "alt": "Straight hair — Shampoo: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Conditioner",
+        "description": "Apply lightweight conditioner mainly to the mid-lengths and ends.\n\nUse a hair mask occasionally if your ends feel dry.",
+        "image": "./assets/hair-steps/1/02.png",
+        "alt": "Straight hair — Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Remove Excess Water",
+        "description": "Gently squeeze excess water out with a microfiber towel or cotton T-shirt.",
+        "image": "./assets/hair-steps/1/03.png",
+        "alt": "Straight hair — Remove Excess Water: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Detangle",
+        "description": "Detangle with a wide-tooth comb or gentle brush.",
+        "image": "./assets/hair-steps/1/04.png",
+        "alt": "Straight hair — Detangle: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Leave-In / Heat Protectant",
+        "description": "Apply a lightweight leave-in conditioner or heat protectant if needed.",
+        "image": "./assets/hair-steps/1/05.png",
+        "alt": "Straight hair — Leave-In / Heat Protectant: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Dry",
+        "description": "Air-dry or blow-dry on low heat.",
+        "image": "./assets/hair-steps/1/06.png",
+        "alt": "Straight hair — Dry: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Finish",
+        "description": "If your ends are dry, apply a small amount of lightweight hair oil to the ends.",
+        "image": "./assets/hair-steps/1/07.png",
+        "alt": "Straight hair — Finish: supplied hand-drawn illustration"
+      }
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "Type 2 — Wavy Hair",
+    "steps": [
+      {
+        "title": "Shampoo",
+        "description": "Wash.\n\nUse a gentle shampoo to cleanse without leaving your hair feeling stripped.\n\nUse clarifying shampoo occasionally when product buildup occurs.",
+        "image": "./assets/hair-steps/2/01.png",
+        "alt": "Wavy hair — Shampoo: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Conditioner",
+        "description": "Apply a lightweight conditioner to the mid-lengths and ends.\n\nDetangle gently while the conditioner is in your hair.\n\nUse a more moisturizing conditioner if your hair is thick, coarse, or prone to dryness.",
+        "image": "./assets/hair-steps/2/02.png",
+        "alt": "Wavy hair — Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Leave-In Conditioner",
+        "description": "Apply a lightweight leave-in conditioner if needed.",
+        "image": "./assets/hair-steps/2/03.png",
+        "alt": "Wavy hair — Leave-In Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Mousse / Lightweight Gel",
+        "description": "Scrunch in mousse or lightweight gel to enhance wave definition and reduce frizz.\n\nApply products in sections to distribute them evenly.",
+        "image": "./assets/hair-steps/2/04.png",
+        "alt": "Wavy hair — Mousse / Lightweight Gel: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Remove Excess Water",
+        "description": "Gently scrunch out excess water with a microfiber towel or cotton T-shirt.",
+        "image": "./assets/hair-steps/2/05.png",
+        "alt": "Wavy hair — Remove Excess Water: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Dry",
+        "description": "Air-dry or diffuse on low heat.",
+        "image": "./assets/hair-steps/2/06.png",
+        "alt": "Wavy hair — Dry: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Scrunch Out the Cast",
+        "description": "Once completely dry, gently scrunch out any stiffness from the gel.",
+        "image": "./assets/hair-steps/2/07.png",
+        "alt": "Wavy hair — Scrunch Out the Cast: supplied hand-drawn illustration"
+      }
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "Type 3 — Curly Hair",
+    "steps": [
+      {
+        "title": "Shampoo",
+        "description": "Wash with shampoo.\n\nUse a gentle, moisturizing shampoo.",
+        "image": "./assets/hair-steps/3/01.png",
+        "alt": "Curly hair — Shampoo: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Conditioner",
+        "description": "Apply a moisturizing conditioner after shampooing.\n\nDetangle gently with your fingers or a wide-tooth comb while the conditioner is in your hair.",
+        "image": "./assets/hair-steps/3/02.png",
+        "alt": "Curly hair — Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Leave-In Conditioner",
+        "description": "Apply a leave-in conditioner to damp hair.",
+        "image": "./assets/hair-steps/3/03.png",
+        "alt": "Curly hair — Leave-In Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Curl Cream + Gel",
+        "description": "Apply curl cream for moisture and definition, followed by curl-defining gel for hold.",
+        "image": "./assets/hair-steps/3/04.png",
+        "alt": "Curly hair — Curl Cream + Gel: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Section Hair",
+        "description": "Divide hair into sections to distribute products evenly.",
+        "image": "./assets/hair-steps/3/05.png",
+        "alt": "Curly hair — Section Hair: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Define Curls",
+        "description": "Use a styling brush or your fingers to define curls section by section.",
+        "image": "./assets/hair-steps/3/06.png",
+        "alt": "Curly hair — Define Curls: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Scrunch",
+        "description": "Scrunch upward to encourage curl formation.",
+        "image": "./assets/hair-steps/3/07.png",
+        "alt": "Curly hair — Scrunch: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Dry",
+        "description": "Air-dry or diffuse on low heat.",
+        "image": "./assets/hair-steps/3/08.png",
+        "alt": "Curly hair — Dry: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Finish",
+        "description": "Once completely dry, gently scrunch out any stiffness.\n\nAdd a small amount of hair oil to the ends if needed.",
+        "image": "./assets/hair-steps/3/09.png",
+        "alt": "Curly hair — Finish: supplied hand-drawn illustration"
+      }
+    ]
+  },
+  "4": {
+    "id": "4",
+    "name": "Type 4 — Coily Hair",
+    "steps": [
+      {
+        "title": "Shampoo",
+        "description": "Wash.\n\nUse a gentle, moisturizing shampoo to cleanse the scalp while maintaining moisture.\n\nClarify occasionally when buildup occurs, especially if you use heavy creams, oils, or butters.",
+        "image": "./assets/hair-steps/4/01.png",
+        "alt": "Coily hair — Shampoo: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Conditioner",
+        "description": "Apply a rich, moisturizing conditioner after shampooing.\n\nDetangle gently in small sections, working from the ends toward the roots.\n\nRinse thoroughly and avoid forcing a comb through knots.",
+        "image": "./assets/hair-steps/4/02.png",
+        "alt": "Coily hair — Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Leave-In Conditioner",
+        "description": "Apply a moisturizing leave-in conditioner to damp hair.",
+        "image": "./assets/hair-steps/4/03.png",
+        "alt": "Coily hair — Leave-In Conditioner: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Cream / Butter + Gel / Custard",
+        "description": "Apply a styling cream or butter for moisture, followed by a defining gel or custard if desired.",
+        "image": "./assets/hair-steps/4/04.png",
+        "alt": "Coily hair — Cream / Butter + Gel / Custard: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Section Hair",
+        "description": "Divide hair into approximately 4–8 sections, depending on density and length.",
+        "image": "./assets/hair-steps/4/05.png",
+        "alt": "Coily hair — Section Hair: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Define Each Section",
+        "description": "Work through each section individually, using your fingers or a suitable styling brush to distribute products and define coils.",
+        "image": "./assets/hair-steps/4/06.png",
+        "alt": "Coily hair — Define Each Section: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Stretch the Hair",
+        "description": "For a stretched style, try twists, braids, or banding.",
+        "image": "./assets/hair-steps/4/07.png",
+        "alt": "Coily hair — Stretch the Hair: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Dry",
+        "description": "Air-dry or use a diffuser on low heat.",
+        "image": "./assets/hair-steps/4/08.png",
+        "alt": "Coily hair — Dry: supplied hand-drawn illustration"
+      },
+      {
+        "title": "Finish",
+        "description": "Once dry, gently separate or fluff the hair as desired.\n\nApply a small amount of oil to the ends if needed.",
+        "image": "./assets/hair-steps/4/09.png",
+        "alt": "Coily hair — Finish: supplied hand-drawn illustration"
+      }
+    ]
+  }
+}

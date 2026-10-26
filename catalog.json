@@ -1,0 +1,359 @@
+[
+  {
+    "id": "nym-curl-talk-fragrance-protein-free-activating-mousse",
+    "name": "Not Your Mother\u2019s Curl Talk Fragrance & Protein Free Activating Mousse",
+    "url": "https://notyourmothers.com/products/curl-talk-fragrance-protein-free-activating-mousse",
+    "image": "./assets/products/nym-curl-talk-fragrance-protein-free-activating-mousse.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13184_NYM_CurlTalk_FragranceFree_Mousse_1.jpg?v=1749063672",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "definition"
+    ],
+    "groups": "123",
+    "weight": "light",
+    "fragranceFree": true,
+    "proteinFree": true,
+    "category": "style",
+    "summary": "A lighter styling format to try for flexible definition and volume. Amount and application can change the finish.",
+    "checked_at": "2026-10-21",
+    "displayName": "Activating Mousse"
+  },
+  {
+    "id": "nym-curl-talk-3-in-1-conditioner",
+    "name": "Not Your Mother\u2019s Curl Talk 3-In-1 Conditioner",
+    "url": "https://notyourmothers.com/products/curl-talk-3-in-1-conditioner",
+    "image": "./assets/products/nym-curl-talk-3-in-1-conditioner.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13061_NYM_CurlTalk_Conditioner_1.jpg?v=1743520966",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "condition",
+    "summary": "Conditioning slip for easier detangling. Focus application on your lengths and ends.",
+    "checked_at": "2026-10-21",
+    "displayName": "3-In-1 Conditioner"
+  },
+  {
+    "id": "nym-curl-talk-activating-mousse",
+    "name": "Not Your Mother\u2019s Curl Talk Activating Mousse",
+    "url": "https://notyourmothers.com/products/curl-talk-activating-mousse",
+    "image": "./assets/products/nym-curl-talk-activating-mousse.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13064_NYM_CurlTalk_Mousse_1_b3985f96-fe71-4e1b-8e84-f47cb0e3d61b.jpg?v=1790104776",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "definition"
+    ],
+    "groups": "123",
+    "weight": "light",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "style",
+    "summary": "A lighter styling format to try for flexible definition and volume. Amount and application can change the finish.",
+    "checked_at": "2026-10-21",
+    "displayName": "Activating Mousse"
+  },
+  {
+    "id": "nym-curl-talk-fragrance-free-protein-free-gel",
+    "name": "Not Your Mother\u2019s Curl Talk Fragrance & Protein Free Sculpting Gel",
+    "url": "https://notyourmothers.com/products/curl-talk-fragrance-free-protein-free-gel",
+    "image": "./assets/products/nym-curl-talk-fragrance-free-protein-free-gel.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13183_NYM_CurlTalk_FragranceFree_Gel_1.jpg?v=1717182994",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "definition"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": true,
+    "proteinFree": true,
+    "category": "style",
+    "summary": "A hold-focused styler to compare for waves, ringlets or coils. Try a small section before changing your whole routine.",
+    "checked_at": "2026-10-21",
+    "displayName": "Sculpting Gel"
+  },
+  {
+    "id": "nym-curl-talk-sculpting-gel",
+    "name": "Not Your Mother\u2019s Curl Talk Sculpting Gel",
+    "url": "https://notyourmothers.com/products/curl-talk-sculpting-gel",
+    "image": "./assets/products/nym-curl-talk-sculpting-gel.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13063_NYM_CurlTalk_Gel.jpg?v=1756236155",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "definition"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "style",
+    "summary": "A hold-focused styler to compare for waves, ringlets or coils. Try a small section before changing your whole routine.",
+    "checked_at": "2026-10-21",
+    "displayName": "Sculpting Gel"
+  },
+  {
+    "id": "nym-curl-talk-leave-in-conditioner",
+    "name": "Not Your Mother\u2019s Curl Talk Leave-In Conditioner",
+    "url": "https://notyourmothers.com/products/curl-talk-leave-in-conditioner",
+    "image": "./assets/products/nym-curl-talk-leave-in-conditioner.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13078_NYM_CurlTalk_LeaveIn_1_2e921557-2d49-4be9-9fed-dbb17cea6766.jpg?v=1790104876",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "leavein",
+    "summary": "A leave-in conditioning option for your lengths. Compare weight, directions and how much your hair needs.",
+    "checked_at": "2026-10-21",
+    "displayName": "Leave-In Conditioner"
+  },
+  {
+    "id": "nym-curl-talk-clean-slate-daily-shampoo",
+    "name": "Not Your Mother\u2019s Curl Talk Clean Slate Daily Shampoo",
+    "url": "https://notyourmothers.com/products/curl-talk-clean-slate-daily-shampoo",
+    "image": "./assets/products/nym-curl-talk-clean-slate-daily-shampoo.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13197_NYM_CurlTalk_CleanSlate_Shampoo_1.jpg?v=1779999204",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "buildup"
+    ],
+    "groups": "1234",
+    "weight": "light",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "cleanse",
+    "summary": "A cleansing option for your scalp and product buildup. Adjust frequency to how your roots feel.",
+    "checked_at": "2026-10-21",
+    "displayName": "Clean Slate Daily Shampoo"
+  },
+  {
+    "id": "nym-curl-talk-deep-hydration-mask",
+    "name": "Not Your Mother\u2019s Curl Talk Deep Hydration Mask",
+    "url": "https://notyourmothers.com/products/curl-talk-deep-hydration-mask",
+    "image": "./assets/products/nym-curl-talk-deep-hydration-mask.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13202_NYM_CurlTalk_DeepHydration_Mask_Jar_1.jpg?v=1779999636",
+    "price": 2.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry",
+      "damage"
+    ],
+    "groups": "1234",
+    "weight": "rich",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "treat",
+    "summary": "An optional conditioning treatment to compare for processed or rough-feeling lengths. It does not establish or guarantee repair of damage.",
+    "checked_at": "2026-10-21",
+    "displayName": "Deep Hydration Mask"
+  },
+  {
+    "id": "nym-bond-building-mask",
+    "name": "Not Your Mother\u2019s Curl Talk Bond Building Mask",
+    "url": "https://notyourmothers.com/products/bond-building-mask",
+    "image": "./assets/products/nym-bond-building-mask.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/products/13139_CurlTalk_BondBuilding_Mask_1.jpg?v=1669144372",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry",
+      "damage"
+    ],
+    "groups": "1234",
+    "weight": "rich",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "treat",
+    "summary": "An optional conditioning treatment to compare for processed or rough-feeling lengths. It does not establish or guarantee repair of damage.",
+    "checked_at": "2026-10-21",
+    "displayName": "Bond Building Mask"
+  },
+  {
+    "id": "nym-curl-talk-defining-cream",
+    "name": "Not Your Mother\u2019s Curl Talk Defining Cream",
+    "url": "https://notyourmothers.com/products/curl-talk-defining-cream",
+    "image": "./assets/products/nym-curl-talk-defining-cream.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13062_NYM_CurlTalk_Cream_1_4a2575f1-d015-478f-9bf6-6da26902465b.jpg?v=1790104619",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry",
+      "definition"
+    ],
+    "groups": "34",
+    "weight": "rich",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "style",
+    "summary": "A richer defining format to compare if your curls or coils enjoy conditioning stylers.",
+    "checked_at": "2026-10-21",
+    "displayName": "Defining Cream"
+  },
+  {
+    "id": "kc-knot-today",
+    "name": "Kinky-Curly Knot Today Leave-In Conditioner",
+    "url": "https://kinky-curly.com/products/knot-today",
+    "image": "./assets/products/kc-knot-today.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0489/0371/7029/products/Kinky-CurlyKnotToday.png?v=1606339935",
+    "price": 14.0,
+    "currency": "USD",
+    "brand": "Kinky-Curly",
+    "tags": [
+      "dry"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "condition",
+    "summary": "Conditioning slip for easier detangling. Focus application on your lengths and ends.",
+    "checked_at": "2026-10-21",
+    "displayName": "Knot Today Leave-In Conditioner"
+  },
+  {
+    "id": "nym-curl-talk-bond-building-leave-in-treatment",
+    "name": "Not Your Mother\u2019s Curl Talk Bond Building Leave-In Treatment",
+    "url": "https://notyourmothers.com/products/curl-talk-bond-building-leave-in-treatment",
+    "image": "./assets/products/nym-curl-talk-bond-building-leave-in-treatment.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13187_NYM_CurlTalk_BondBuilding_Leave-in_1_1.jpg?v=1782416578",
+    "price": 10.99,
+    "currency": "USD",
+    "brand": "Not Your Mother\u2019s",
+    "tags": [
+      "dry",
+      "damage"
+    ],
+    "groups": "234",
+    "weight": "medium",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "leavein",
+    "summary": "A leave-in conditioning option for your lengths. Compare weight, directions and how much your hair needs.",
+    "checked_at": "2026-10-21",
+    "displayName": "Bond Building Leave-In Treatment"
+  },
+  {
+    "id": "kc-curling-custard",
+    "name": "Kinky-Curly Curling Custard",
+    "url": "https://kinky-curly.com/products/curling-custard",
+    "image": "./assets/products/kc-curling-custard.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0489/0371/7029/products/Kinky-CurlyCurlingCustardWebcopy.png?v=1607051114",
+    "price": 20.0,
+    "currency": "USD",
+    "brand": "Kinky-Curly",
+    "tags": [
+      "definition"
+    ],
+    "groups": "234",
+    "weight": "rich",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "style",
+    "summary": "A hold-focused styler to compare for waves, ringlets or coils. Try a small section before changing your whole routine.",
+    "checked_at": "2026-10-21",
+    "displayName": "Curling Custard"
+  },
+  {
+    "id": "vanicream-shampoo",
+    "name": "Vanicream Shampoo",
+    "url": "https://www.vanicream.com/product/free-and-clear-shampoo",
+    "image": "./assets/products/vanicream-shampoo.webp",
+    "image_source": "https://www.vanicream.com/dynamic-media/product/images/1000x1000-0012-shampoo-12oz-front-1053-ret.jpg?gravity=center&v=galleryMedia&k=k%2FC9keZQD2mLLJGYei1S9w",
+    "brand": "Vanicream",
+    "price": null,
+    "tags": [
+      "buildup"
+    ],
+    "groups": "1234",
+    "weight": "light",
+    "fragranceFree": true,
+    "proteinFree": true,
+    "category": "cleanse",
+    "summary": "A cleansing option for your scalp and product buildup. Adjust frequency to how your roots feel.",
+    "checked_at": "2026-10-21",
+    "displayName": "Shampoo"
+  },
+  {
+    "id": "vanicream-conditioner",
+    "name": "Vanicream Conditioner",
+    "url": "https://www.vanicream.com/product/free-and-clear-conditioner",
+    "image": "./assets/products/vanicream-conditioner.webp",
+    "image_source": "https://www.vanicream.com/dynamic-media/product/images/conditioner-12oz-front-1309-ret.jpg?gravity=center&v=galleryMedia&k=Xad%2B3rGOYtZArtOpiZIVJw",
+    "brand": "Vanicream",
+    "price": null,
+    "tags": [
+      "dry"
+    ],
+    "groups": "1234",
+    "weight": "light",
+    "fragranceFree": true,
+    "proteinFree": true,
+    "category": "condition",
+    "summary": "Conditioning slip for easier detangling. Focus application on your lengths and ends.",
+    "checked_at": "2026-10-21",
+    "displayName": "Conditioner"
+  },
+  {
+    "id": "kc-come-clean-shampoo",
+    "name": "Kinky-Curly Come Clean Shampoo",
+    "url": "https://kinky-curly.com/products/come-clean-shampoo",
+    "image": "./assets/products/kc-come-clean-shampoo.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0489/0371/7029/products/Kinky-CurlyComeClean.png?v=1604450942",
+    "brand": "Kinky-Curly",
+    "price": 12.0,
+    "tags": [
+      "buildup"
+    ],
+    "groups": "1234",
+    "weight": "light",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "cleanse",
+    "summary": "A cleansing option for your scalp and product buildup. Adjust frequency to how your roots feel.",
+    "checked_at": "2026-10-21",
+    "displayName": "Come Clean Shampoo"
+  },
+  {
+    "id": "nym-beat-the-heat-protecting-heat-spray",
+    "name": "Not Your Mother\u2019s Heat Spray",
+    "url": "https://notyourmothers.com/products/beat-the-heat-protecting-heat-spray",
+    "image": "./assets/products/nym-beat-the-heat-protecting-heat-spray.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0517/1868/4866/files/13003_NYM_BeatTheHeat_1.jpg?v=1701717993",
+    "brand": "Not Your Mother\u2019s",
+    "price": 9.99,
+    "tags": [
+      "heat"
+    ],
+    "groups": "1234",
+    "weight": "light",
+    "fragranceFree": false,
+    "proteinFree": false,
+    "category": "protect",
+    "summary": "A heat-protection spray to compare when you use tools. Follow the label and keep temperatures and exposure lower.",
+    "checked_at": "2026-10-21",
+    "displayName": "Heat Spray"
+  }
+]

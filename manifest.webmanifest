@@ -1,0 +1,17 @@
+{
+  "name": "Meili Hair Studio",
+  "short_name": "Meili",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f9e9ee",
+  "theme_color": "#f9d6e0",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
